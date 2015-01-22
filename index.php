@@ -3,7 +3,7 @@
 $app_id = "993651730663707"; // id de l'application
 $app_secret = "0b8bd2ead9c68ddd4210fd3cf27ab7f0"; // code secret de l'application
 $group_id = "1514794125452517"; // id ou nom du groupe à scraper (cf url du groupe) ou d'une page
-$callback_url = "http://grp-salahsmiti.rhcloud.com/"; // url de retour
+$callback_url = "http://new-salahsmiti.rhcloud.com/"; // url de retour
 // [/params]
 
 // [fonctions]
